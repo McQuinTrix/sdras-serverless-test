@@ -1,0 +1,24 @@
+{
+  "name": "sample-stripe-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McQuinTrix/sdras-serverless-test.git"
+  },
+  "keywords": [
+    "Azure",
+    "stripe",
+    "serverless"
+  ],
+  "author": "Harshal Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McQuinTrix/sdras-serverless-test/issues"
+  },
+  "homepage": "https://github.com/McQuinTrix/sdras-serverless-test#readme","dependencies": {"stripe": "^5.3.0"}
+}
